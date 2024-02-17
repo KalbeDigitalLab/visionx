@@ -1,0 +1,9 @@
+[submodule "keycloak"]
+	path = keycloak
+	url = git@github.com:keycloak/keycloak.git
+[submodule "dcm4chee-arc-light"]
+	path = dcm4chee-arc-light
+	url = git@github.com:dcm4che/dcm4chee-arc-light.git
+[submodule "keycloakify"]
+	path = keycloakify
+	url = git@github.com:keycloakify/keycloakify.git
