@@ -1,3 +1,9 @@
 [submodule "keycloakify-starter"]
 	path = keycloakify-starter
 	url = https://github.com/CDTSWE/keycloakify-starter.git
+[submodule "visionx-keycloak"]
+	path = visionx-keycloak
+	url = git@github.com:KalbeDigitalLab/visionx-keycloak.git
+[submodule "visionx-dcm4chee-arc-light"]
+	path = visionx-dcm4chee-arc-light
+	url = git@github.com:KalbeDigitalLab/visionx-dcm4chee-arc-light.git
