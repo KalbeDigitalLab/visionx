@@ -7,3 +7,6 @@
 [submodule "keycloakify"]
 	path = keycloakify
 	url = git@github.com:keycloakify/keycloakify.git
+[submodule "keycloakify-starter"]
+	path = keycloakify-starter
+	url = https://github.com/CDTSWE/keycloakify-starter.git
