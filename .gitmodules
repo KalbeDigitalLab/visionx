@@ -7,3 +7,6 @@
 [submodule "visionx-dcm4chee-arc-light"]
 	path = visionx-dcm4chee-arc-light
 	url = git@github.com:KalbeDigitalLab/visionx-dcm4chee-arc-light.git
+[submodule "visionx-keycloakify-starter"]
+	path = visionx-keycloakify-starter
+	url = git@github.com:KalbeDigitalLab/visionx-keycloakify-starter.git
